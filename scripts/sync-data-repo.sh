@@ -13,13 +13,13 @@
 # GIT_REMOTE — set that up once, outside this script.
 #
 # Env vars (all optional, defaults shown):
-#   GIT_REMOTE     https://github.com/bryanflowers/redditwatch-data.git
+#   GIT_REMOTE     https://github.com/aimaniac555/redditwatch-data.git
 #   DATA_REPO_DIR  /root/gha-migrated/redditwatch-data
 #   SITE           https://redditwatch.org
 
 set -euo pipefail
 
-GIT_REMOTE="${GIT_REMOTE:-https://github.com/bryanflowers/redditwatch-data.git}"
+GIT_REMOTE="${GIT_REMOTE:-https://github.com/aimaniac555/redditwatch-data.git}"
 DATA_REPO_DIR="${DATA_REPO_DIR:-/root/gha-migrated/redditwatch-data}"
 SITE="${SITE:-https://redditwatch.org}"
 

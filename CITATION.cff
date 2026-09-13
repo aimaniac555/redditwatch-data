@@ -7,7 +7,7 @@ authors:
     website: "https://redditwatch.org"
     email: "admin@redditwatch.org"
 url: "https://redditwatch.org/data"
-repository-code: "https://github.com/bryanflowers/redditwatch-data"
+repository-code: "https://github.com/aimaniac555/redditwatch-data"
 license: "CC-BY-4.0"
 notes: >-
   Reddit Watch is an independent, sourced public archive of Reddit's documented controversies

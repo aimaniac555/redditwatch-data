@@ -24,7 +24,7 @@ posts — roughly 3,300 citations in total. There's an ongoing link-integrity pr
 periodically re-checks every cited URL and archives it to the Wayback Machine, so citations stay
 checkable even after the original link rots.
 
-The open data repo (https://github.com/bryanflowers/redditwatch-data) has CSV and JSON snapshots
+The open data repo (https://github.com/aimaniac555/redditwatch-data) has CSV and JSON snapshots
 of issues, banned subreddits, and the full per-citation source index, refreshed weekly, plus a
 free JSON API (https://redditwatch.org/api-docs). Everything is CC BY 4.0. Feedback on the data
 model, gaps in coverage, or citations that need a second look is welcome.
@@ -47,6 +47,6 @@ re-checked and archived to the Wayback Machine as part of an ongoing link-integr
 sources stay verifiable over time.
 
 CSV and JSON snapshots (issues, banned subreddits, and a flattened per-citation source file) are
-mirrored to a GitHub repo (https://github.com/bryanflowers/redditwatch-data), refreshed weekly,
+mirrored to a GitHub repo (https://github.com/aimaniac555/redditwatch-data), refreshed weekly,
 alongside a free JSON API (https://redditwatch.org/api-docs). Licensed CC BY 4.0. Happy to answer
 questions about methodology or take suggestions on what's missing.

@@ -22,7 +22,7 @@
       "resource_type": "dataset"
     },
     {
-      "identifier": "https://github.com/bryanflowers/redditwatch-data",
+      "identifier": "https://github.com/aimaniac555/redditwatch-data",
       "relation": "isDerivedFrom",
       "resource_type": "dataset"
     }

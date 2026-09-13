@@ -12,7 +12,7 @@ set -u
 BASE=/root/gha-migrated/redditwatch-data
 LOG=$BASE/last-run.log
 export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
-export GIT_REMOTE="git@github.com:bryanflowers/redditwatch-data.git"
+export GIT_REMOTE="git@github.com:aimaniac555/redditwatch-data.git"
 export DATA_REPO_DIR="$BASE/repo"
 export SITE="https://redditwatch.org"
 export GIT_SSH_COMMAND="ssh -i $BASE/deploy_key -o IdentitiesOnly=yes -o StrictHostKeyChecking=accept-new"

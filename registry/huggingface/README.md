@@ -91,7 +91,7 @@ https://redditwatch.org/transparency.
 ## Licence
 
 This dataset is licensed **CC BY 4.0**
-(https://github.com/bryanflowers/redditwatch-data/blob/main/LICENSE.md). Source texts cited within
+(https://github.com/aimaniac555/redditwatch-data/blob/main/LICENSE.md). Source texts cited within
 the dataset (news articles, official statements, etc.) remain the work of their original
 publishers and are summarised/cited here, not relicensed.
 

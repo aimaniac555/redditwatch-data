@@ -9,7 +9,7 @@ of the others except where noted.
 1. Create a Zenodo account at https://zenodo.org using GitHub login.
 2. Enable the GitHub–Zenodo integration for the `redditwatch-data` repository
    (https://zenodo.org/account/settings/github/).
-3. Create a GitHub release tagged `v2026-09-14` on `bryanflowers/redditwatch-data`. Zenodo will
+3. Create a GitHub release tagged `v2026-09-14` on `aimaniac555/redditwatch-data`. Zenodo will
    automatically archive it and mint a DOI.
 4. Once the DOI is minted, paste it into:
    - `CITATION.cff` — replace the `# doi:` comment with a real `doi:` field.
@@ -31,7 +31,7 @@ of the others except where noted.
    `dataset-metadata.json` and `description.md`.
 2. From `registry/kaggle/`, run: `kaggle datasets create -p .`
 3. Review the `id` field in `dataset-metadata.json` first — it is currently
-   `bryanflowers/reddit-watch-open-data`; rename if you'd prefer a different Kaggle handle.
+   `aimaniac555/reddit-watch-open-data`; rename if you'd prefer a different Kaggle handle.
 
 ## 4. Awesome-list PRs
 
