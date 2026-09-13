@@ -1,33 +1,33 @@
 {
   "aggregates.json": {
     "bytes": 3202,
-    "fetchedAt": "2026-09-13T15:56:23Z",
-    "sha256": "fb72f7b903e06f1881592c71c28e34fd5f2f3c99f2d9bb362a91c29e6a87eb44",
+    "fetchedAt": "2026-09-13T15:58:40Z",
+    "sha256": "86fcb0797a6f0c21b34c399e41c6a4262d59ec1bd2a90d5ebc2fbf8edf169e7c",
     "sourceUrl": "https://redditwatch.org/data/aggregates.json"
   },
   "banned-subreddits.csv": {
     "bytes": 36682,
-    "fetchedAt": "2026-09-13T15:56:23Z",
+    "fetchedAt": "2026-09-13T15:58:40Z",
     "rows": 206,
     "sha256": "0c6ab2c2fcd1d81a9f5f051fc2b55b5a4268494bf0fe4715893e5ab203314068",
     "sourceUrl": "https://redditwatch.org/data/banned-subreddits.csv"
   },
   "issues.csv": {
     "bytes": 475216,
-    "fetchedAt": "2026-09-13T15:56:23Z",
+    "fetchedAt": "2026-09-13T15:58:40Z",
     "rows": 345,
     "sha256": "9631d15364b02b564ac77f59aed7bcc3409cfbe2e715d8e82208345ed7d55cf0",
     "sourceUrl": "https://redditwatch.org/data/issues.csv"
   },
   "issues.json": {
     "bytes": 1947514,
-    "fetchedAt": "2026-09-13T15:56:23Z",
-    "sha256": "af8e2881c38c89a320533260a5bd00d2137259bcfb93a3ed2d83398cb31d32e0",
+    "fetchedAt": "2026-09-13T15:58:40Z",
+    "sha256": "0487d00f89dd100c52ed01404a12c08bdda3e7a81e4ceeb0496bc4ecb4cb1745",
     "sourceUrl": "https://redditwatch.org/data/issues.json"
   },
   "sources.csv": {
     "bytes": 1267513,
-    "fetchedAt": "2026-09-13T15:56:23Z",
+    "fetchedAt": "2026-09-13T15:58:40Z",
     "rows": 3339,
     "sha256": "85e6d22783113606250b74c693f84ff68f5697842c25336ea78d070f7a1f0949",
     "sourceUrl": "https://redditwatch.org/data/sources.csv"
