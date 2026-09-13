@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Reddit Watch dataset"
+authors:
+  - name: "Reddit Watch"
+    website: "https://redditwatch.org"
+    email: "admin@redditwatch.org"
+url: "https://redditwatch.org/data"
+repository-code: "https://github.com/bryanflowers/redditwatch-data"
+license: "CC-BY-4.0"
+notes: >-
+  Reddit Watch is an independent, sourced public archive of Reddit's documented controversies
+  and issues, 2005-2026. It is not affiliated with, endorsed by, or sponsored by Reddit, Inc.
+  Every claim is traced to a cited source; see sources.csv / issues.json sources[] and
+  https://redditwatch.org/transparency for methodology.
+date-released: "2026-09-14"
+version: "2026-09-14"
+keywords:
+  - reddit
+  - content-moderation
+  - platform-governance
+  - trust-and-safety
+  - online-communities
+  - open-data
+abstract: >-
+  Open datasets published by Reddit Watch: 346 documented Reddit controversies and issues
+  (2005-2026), 207 banned-subreddit records, and roughly 3,300 verified citations with Wayback
+  archive links, spanning 8 categories and 17 story arcs. Refreshed weekly, and regenerated on
+  every deploy of the live site. Not affiliated with Reddit, Inc.
+# doi: (added after Zenodo release)

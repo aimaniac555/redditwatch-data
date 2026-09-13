@@ -1,0 +1,74 @@
+{
+  "title": "Reddit Watch Open Data",
+  "id": "bryanflowers/reddit-watch-open-data",
+  "licenses": [
+    { "name": "CC-BY-4.0" }
+  ],
+  "keywords": [
+    "reddit",
+    "content-moderation",
+    "platform-governance",
+    "trust-and-safety",
+    "online-communities"
+  ],
+  "resources": [
+    {
+      "path": "issues.csv",
+      "description": "346 documented Reddit controversies and issues (2005-2026 snapshot), each with categorisation, story-arc membership, Reddit's documented response where reported, and a source-citation count. Licence: CC BY 4.0.",
+      "schema": {
+        "fields": [
+          { "name": "slug", "description": "Unique Reddit Watch slug for this issue", "type": "string" },
+          { "name": "title", "description": "Issue title", "type": "string" },
+          { "name": "date", "description": "Primary date associated with the issue", "type": "date" },
+          { "name": "year", "description": "Primary year of the issue", "type": "integer" },
+          { "name": "start_year", "description": "First year the issue is documented as spanning", "type": "integer" },
+          { "name": "end_year", "description": "Last year the issue is documented as spanning", "type": "integer" },
+          { "name": "categories", "description": "Pipe-separated list of category slugs", "type": "string" },
+          { "name": "short_description", "description": "One- to two-sentence summary", "type": "string" },
+          { "name": "impact", "description": "Documented impact/outcome, where reported", "type": "string" },
+          { "name": "reddit_response", "description": "Reddit's or moderators' documented response, where reported", "type": "string" },
+          { "name": "source_count", "description": "Number of citations backing this issue", "type": "integer" },
+          { "name": "arc_slugs", "description": "Pipe-separated list of story-arc slugs", "type": "string" },
+          { "name": "url", "description": "Canonical Reddit Watch page for this issue", "type": "string" },
+          { "name": "last_updated", "description": "Date this issue's page content was last reviewed", "type": "date" }
+        ]
+      }
+    },
+    {
+      "path": "banned-subreddits.csv",
+      "description": "207 records of subreddits banned, quarantined, or otherwise actioned by Reddit, with documented reason, date, and related-issue/ban-wave grouping where applicable. Licence: CC BY 4.0.",
+      "schema": {
+        "fields": [
+          { "name": "name", "description": "Subreddit name, without the r/ prefix", "type": "string" },
+          { "name": "action", "description": "Action taken (e.g. banned, quarantined)", "type": "string" },
+          { "name": "date", "description": "Date of the action", "type": "date" },
+          { "name": "year", "description": "Year of the action", "type": "integer" },
+          { "name": "reason", "description": "Documented reason for the action", "type": "string" },
+          { "name": "reason_category", "description": "Normalised reason category", "type": "string" },
+          { "name": "subscribers", "description": "Subscriber count at time of action, where reported", "type": "integer" },
+          { "name": "related_issue_slug", "description": "Slug of a related issues.csv row, if any", "type": "string" },
+          { "name": "ban_wave_slug", "description": "Slug identifying a grouped ban wave, if any", "type": "string" },
+          { "name": "source_count", "description": "Number of citations backing this record", "type": "integer" },
+          { "name": "url", "description": "Canonical Reddit Watch page for this record", "type": "string" }
+        ]
+      }
+    },
+    {
+      "path": "sources.csv",
+      "description": "Flattened per-citation index spanning every Reddit Watch record type (issues, banned subreddits, convictions, lawsuits, regulation, breaches, and more), roughly 3,300 rows. Licence: CC BY 4.0 (the compilation; each cited source remains the work of its original publisher).",
+      "schema": {
+        "fields": [
+          { "name": "record_type", "description": "issue or banned-subreddit", "type": "string" },
+          { "name": "record_key", "description": "Slug/name of the record this citation supports", "type": "string" },
+          { "name": "record_title", "description": "Human-readable title of the record this citation supports", "type": "string" },
+          { "name": "source_label", "description": "Short label for the cited source", "type": "string" },
+          { "name": "source_url", "description": "Live URL of the cited source", "type": "string" },
+          { "name": "source_type", "description": "Kind of source (news reporting, official statement, primary Reddit post, etc.)", "type": "string" },
+          { "name": "source_year", "description": "Year of publication of the cited source", "type": "integer" },
+          { "name": "archive_url", "description": "Wayback Machine snapshot URL, where captured", "type": "string" },
+          { "name": "record_url", "description": "Canonical Reddit Watch page for the record this citation supports", "type": "string" }
+        ]
+      }
+    }
+  ]
+}

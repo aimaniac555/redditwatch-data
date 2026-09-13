@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Reddit Watch dataset",
+  "creators": [
+    { "name": "Reddit Watch" }
+  ],
+  "description": "<p>Open datasets published by <a href=\"https://redditwatch.org\">Reddit Watch</a>, an independent, sourced public archive of Reddit's documented controversies and issues, 2005-2026. Reddit Watch is NOT affiliated with, endorsed by, or sponsored by Reddit, Inc. Includes 346 documented issues, 207 banned-subreddit records, roughly 3,300 verified citations with Wayback Machine archive links, 8 categories, and 17 story arcs. Every claim is traced to a cited source (news reporting, official statements, moderator/user statements, and Reddit's own public posts); an ongoing link-integrity program re-checks and archives every cited URL. Refreshed weekly and regenerated on every deploy of the live site. Licensed CC BY 4.0.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "reddit",
+    "content-moderation",
+    "platform-governance",
+    "trust-and-safety",
+    "online-communities",
+    "dataset"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://redditwatch.org/data",
+      "relation": "isSupplementTo",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/bryanflowers/redditwatch-data",
+      "relation": "isDerivedFrom",
+      "resource_type": "dataset"
+    }
+  ],
+  "version": "2026-09-14"
+}
