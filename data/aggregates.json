@@ -1,0 +1,215 @@
+{
+  "generatedAt": "2026-09-13T12:01:02.643Z",
+  "license": "CC BY 4.0",
+  "attribution": "Reddit Watch (redditwatch.org)",
+  "totals": {
+    "issues": 346,
+    "bannedSubreddits": 207,
+    "categories": 8,
+    "arcs": 17,
+    "themes": 12,
+    "convictions": 40,
+    "lawsuits": 34,
+    "regulations": 42,
+    "breaches": 15,
+    "outages": 11,
+    "banWaves": 11,
+    "policyChanges": 26,
+    "powerMods": 13,
+    "quotes": 23,
+    "amas": 18,
+    "researchPapers": 48,
+    "glossaryTerms": 151,
+    "people": 116,
+    "milestones": 120,
+    "sources": 3340
+  },
+  "issuesByYear": [
+    {
+      "year": 2005,
+      "count": 1
+    },
+    {
+      "year": 2010,
+      "count": 4
+    },
+    {
+      "year": 2011,
+      "count": 5
+    },
+    {
+      "year": 2012,
+      "count": 10
+    },
+    {
+      "year": 2013,
+      "count": 14
+    },
+    {
+      "year": 2014,
+      "count": 16
+    },
+    {
+      "year": 2015,
+      "count": 21
+    },
+    {
+      "year": 2016,
+      "count": 13
+    },
+    {
+      "year": 2017,
+      "count": 20
+    },
+    {
+      "year": 2018,
+      "count": 29
+    },
+    {
+      "year": 2019,
+      "count": 16
+    },
+    {
+      "year": 2020,
+      "count": 19
+    },
+    {
+      "year": 2021,
+      "count": 24
+    },
+    {
+      "year": 2022,
+      "count": 23
+    },
+    {
+      "year": 2023,
+      "count": 24
+    },
+    {
+      "year": 2024,
+      "count": 39
+    },
+    {
+      "year": 2025,
+      "count": 39
+    },
+    {
+      "year": 2026,
+      "count": 29
+    }
+  ],
+  "bansByYear": [
+    {
+      "year": 2011,
+      "bans": 3,
+      "quarantines": 0
+    },
+    {
+      "year": 2012,
+      "bans": 2,
+      "quarantines": 0
+    },
+    {
+      "year": 2013,
+      "bans": 1,
+      "quarantines": 0
+    },
+    {
+      "year": 2014,
+      "bans": 3,
+      "quarantines": 0
+    },
+    {
+      "year": 2015,
+      "bans": 33,
+      "quarantines": 5
+    },
+    {
+      "year": 2016,
+      "bans": 1,
+      "quarantines": 0
+    },
+    {
+      "year": 2017,
+      "bans": 15,
+      "quarantines": 0
+    },
+    {
+      "year": 2018,
+      "bans": 59,
+      "quarantines": 4
+    },
+    {
+      "year": 2019,
+      "bans": 14,
+      "quarantines": 0
+    },
+    {
+      "year": 2020,
+      "bans": 36,
+      "quarantines": 0
+    },
+    {
+      "year": 2021,
+      "bans": 10,
+      "quarantines": 7
+    },
+    {
+      "year": 2022,
+      "bans": 5,
+      "quarantines": 3
+    },
+    {
+      "year": 2024,
+      "bans": 3,
+      "quarantines": 0
+    },
+    {
+      "year": 2025,
+      "bans": 3,
+      "quarantines": 0
+    }
+  ],
+  "bansByReason": [
+    {
+      "reason": "Hate",
+      "count": 93
+    },
+    {
+      "reason": "Illegal/transactions",
+      "count": 31
+    },
+    {
+      "reason": "Violence",
+      "count": 21
+    },
+    {
+      "reason": "Misinformation",
+      "count": 15
+    },
+    {
+      "reason": "Harassment",
+      "count": 14
+    },
+    {
+      "reason": "Other",
+      "count": 12
+    },
+    {
+      "reason": "Gore/shock",
+      "count": 9
+    },
+    {
+      "reason": "Sexualization of minors",
+      "count": 6
+    },
+    {
+      "reason": "Doxxing",
+      "count": 4
+    },
+    {
+      "reason": "Spam/manipulation",
+      "count": 2
+    }
+  ]
+}
