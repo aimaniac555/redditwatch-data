@@ -1,9 +1,9 @@
 {
   "dataset": "issues",
-  "generatedAt": "2026-09-24T20:50:21.282Z",
+  "generatedAt": "2026-10-11T05:22:43.033Z",
   "license": "CC BY 4.0",
   "attribution": "Reddit Watch (redditwatch.org)",
-  "count": 346,
+  "count": 349,
   "issues": [
     {
       "slug": "reddit-spam-filter-internals-exposed-2026",
@@ -138,6 +138,32 @@
       ],
       "url": "https://redditwatch.org/issues/chatgpt-reddit-citation-collapse-promptwatch-2026",
       "updatedAt": "2026-08-30"
+    },
+    {
+      "slug": "reddit-clo-benjamin-lee-steps-down-cappuccio-named-2026",
+      "title": "Chief Legal Officer Benjamin Lee to Step Down; Paul Cappuccio Named Successor Amid Active AI-Scraping Litigation",
+      "date": "August 2026",
+      "year": 2026,
+      "startYear": null,
+      "endYear": null,
+      "categories": [
+        "ongoing-2024-2026"
+      ],
+      "shortDescription": "On August 12, 2026, Reddit disclosed in a filing with the U.S. Securities and Exchange Commission that Chief Legal Officer and Corporate Secretary Benjamin Lee would step down effective September 14, 2026, with Paul Cappuccio named as his successor — a change atop the company's legal department that lands in the middle of Reddit's active litigation against AI firms over unauthorized scraping of its content.",
+      "fullDescription": "Reddit, Inc. disclosed the departure in a Form 8-K filed with the Securities and Exchange Commission under Item 5.02, which covers the departure and appointment of company officers. According to the filing, on August 12, 2026, Benjamin Lee notified Reddit of his intention to step down as the company's Chief Legal Officer and Corporate Secretary, effective September 14, 2026. The filing states that Lee will remain a Reddit employee through September 25, 2026 to assist with the transition of his responsibilities, and that 'in connection with Mr. Lee's resignation, Reddit expects to appoint Paul Cappuccio as Reddit's Chief Legal Officer and Corporate Secretary.' The filing describes Cappuccio as bringing 'deep leadership experience as a public company general counsel, executive, and board director,' without detailing his prior employers or providing further biographical background. The 8-K was signed by Reddit President and Chief Executive Officer Steven Huffman and contains no other substantive disclosure beyond the personnel change itself.\n\nLee had held Reddit's top legal post since March 2022, after joining the company in September 2019 as executive vice president and general counsel and being named corporate secretary later that same year. During his tenure, Reddit's legal department oversaw the company's March 2024 initial public offering and, subsequently, became the plaintiff in a wave of litigation asserting Reddit's control over how its user-generated content may be used to train generative-AI systems. That litigation includes a 2025 California lawsuit against Anthropic alleging unauthorized scraping of Reddit posts to train the Claude models, and a separate 2025 federal suit against Perplexity AI and the data-scraping intermediaries SerpApi, Oxylabs and AWMProxy, accusing them of circumventing Reddit's access controls to harvest and resell its content. Both matters remained active as of Lee's announced departure; the 8-K itself makes no reference to either case or to any change in the company's litigation posture, staffing of outside counsel, or settlement strategy.\n\nBecause the office of the Chief Legal Officer is the one that ordinarily oversees a public company's litigation strategy, Lee's departure a little over a year into the Anthropic and Perplexity/SerpApi cases raises an obvious continuity question for anyone tracking how Reddit manages its most consequential ongoing legal fights over the value and control of its data. The SEC filing does not answer that question, and this record does not speculate beyond what the filing discloses: it states only that Lee gave notice of his intent to resign, that he will assist with a transition through late September 2026, and that the company 'expects' — rather than confirms outright — to appoint Cappuccio in his place. The filing gives no reason for the departure beyond Lee's own notification, and does not indicate whether the change was a planned, negotiated transition or a departure prompted by other factors.",
+      "impact": "The change replaces the general counsel who built and oversaw Reddit's litigation campaign against AI companies accused of scraping its content — including the pending Anthropic and Perplexity/SerpApi suits — with a successor whose specific plans for those cases have not been disclosed. Because the SEC filing discloses only the personnel change itself, with no accompanying statement on litigation strategy, the practical effect on those cases is, as of this filing, unknown and worth tracking as Cappuccio takes over the role.",
+      "redditResponse": "Reddit's only public statement on the departure is the Form 8-K itself, which frames the change in standard executive-transition language: Lee 'notified' the company of his intent to step down, will assist with a transition through late September 2026, and Reddit 'expects to appoint' Cappuccio as his successor, citing Cappuccio's general-counsel, executive and board-director experience. The filing, signed by CEO Steven Huffman, does not elaborate on the reasons for the departure and does not comment on any pending litigation matters.",
+      "arcs": [],
+      "sources": [
+        {
+          "label": "Reddit, Inc. — Form 8-K (Item 5.02): Departure of Benjamin Lee as Chief Legal Officer; Expected Appointment of Paul Cappuccio",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000107/rddt-20260812.htm",
+          "type": "official",
+          "year": 2026
+        }
+      ],
+      "url": "https://redditwatch.org/issues/reddit-clo-benjamin-lee-steps-down-cappuccio-named-2026",
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "reddit-ai-spam-manipulate-ai-search-2025-2026",
@@ -1008,6 +1034,58 @@
       ],
       "url": "https://redditwatch.org/issues/reddit-record-2025-results-billion-buyback-2026",
       "updatedAt": "2026-08-30"
+    },
+    {
+      "slug": "huffman-10b5-1-scheduled-stock-sales-2025-2026",
+      "title": "Steve Huffman's pre-scheduled 10b5-1 stock sales continue through Reddit's 2026 AI-traffic slide",
+      "date": "May 2025 – September 2026",
+      "year": 2026,
+      "startYear": 2025,
+      "endYear": 2026,
+      "categories": [
+        "scandals-backlash",
+        "ongoing-2024-2026"
+      ],
+      "shortDescription": "CEO Steve Huffman sold Reddit stock in recurring tranches under a Rule 10b5-1 trading plan adopted in May 2025, and continued doing so on a successor plan into September 2026, as the shares slid on investor worries about AI search eroding Reddit's referral traffic — a pattern of disclosed, pre-arranged sales rather than an allegation of wrongdoing.",
+      "fullDescription": "SEC rules allow a corporate insider to adopt a Rule 10b5-1 trading plan: a written, pre-arranged instruction to a broker to buy or sell a set number of shares on a schedule fixed in advance, before the insider could know what non-public information might later exist. The mechanism exists specifically so that executives can diversify their equity compensation without a trade being second-guessed as based on inside information, and every transaction made under such a plan is still required to be disclosed to the public within days, on SEC Form 4. Reddit CEO Steve Huffman's stock sales through 2025 and 2026 followed exactly this disclosed, scheduled pattern.\n\nAccording to a Form 4 Huffman filed with the SEC on July 2, 2026, the sales reported were 'effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on May 19, 2025.' Under that plan, the filing shows Huffman exercised options on 18,000 Class A shares at a $25.29 strike price and sold all 18,000 of them in five tranches priced between about $170.71 and $174.61 per share that week — a transaction worth on the order of $3.1 million before accounting for the exercise cost. The size of that tranche was consistent with sales reported under the same plan in other periods; a Form 4 covering an October 2025 transaction, for instance, was likewise reported as an exercise-and-sale of 18,000 shares.\n\nThe sales continued on that schedule as Reddit's stock came under pressure in 2026. Reporting by CNBC on July 22, 2026 described Reddit shares falling after reports the company was weighing whether to end a roughly $60 million-a-year content-licensing deal with Google, amid a broader worry among investors that Google's AI Overviews and AI-driven search were cutting into the traffic Reddit had historically received as referrals — a concern that weighed on the stock through much of the year. Huffman's sales during this stretch were not timed to that news; they were executions of instructions locked in more than a year earlier, in May 2025, well before the AI-traffic concerns became a dominant market narrative.\n\nForm 4s filed August 6 and September 2, 2026 continued to cite the same May 19, 2025 plan. By September 17, 2026, however, Huffman's Form 4 cited a new Rule 10b5-1 plan, this one 'adopted by the Reporting Person on May 20, 2026' — indicating the original plan had run its course over roughly sixteen months and been replaced by a successor plan of similar structure, again scheduled a year in advance of most of its executions. Sales under the new plan continued at a comparable tranche size, with a September 17, 2026 filing reporting an exercise of 17,308 option shares at the same $25.29 strike and a series of sales priced between roughly $157.77 and $163.78 per share.\n\nNone of this activity is unusual for a public-company executive, and the filings themselves are the mechanism by which the public learns of it: each transaction is disclosed on the SEC's public EDGAR system within the statutory window, identifying the plan under which it was made. The pattern documented here is one of continuity — a pre-arranged plan adopted in May 2025, executed on a fixed cadence through a volatile stretch for Reddit's stock, and succeeded by a comparable plan adopted a year later — rather than a discrete event or a claim of impropriety.",
+      "impact": "The filings show that Huffman's stock sales continued on a fixed, pre-arranged schedule across more than sixteen months that included a period of investor anxiety over AI search's effect on Reddit's referral traffic and stock price. Because the sales were governed by 10b5-1 plans adopted well in advance and disclosed on schedule via Form 4, they illustrate how routine executive equity diversification proceeds independent of a company's news cycle, even when the optics of insider selling during a stock decline draw attention from financial commentators.",
+      "redditResponse": "Huffman's Form 4 filings state on their face that the reported transactions were effected under Rule 10b5-1 trading plans adopted in advance — first one dated May 19, 2025, later succeeded by one dated May 20, 2026 — and each transaction was disclosed to the SEC's public EDGAR system within the required window. Neither Reddit nor Huffman has treated the sales as controversial; the filings document them as ordinary, pre-scheduled diversification of previously disclosed equity compensation.",
+      "arcs": [],
+      "sources": [
+        {
+          "label": "SEC EDGAR — Form 4, Steve Huffman (Reddit, Inc.), filed July 2, 2026",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000092/wk-form4_1783033010.xml",
+          "type": "official",
+          "year": 2026
+        },
+        {
+          "label": "SEC EDGAR — Form 4, Steve Huffman (Reddit, Inc.), filed August 6, 2026 (sales under the May 19, 2025 plan)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000102/wk-form4_1786050527.xml",
+          "type": "official",
+          "year": 2026
+        },
+        {
+          "label": "SEC EDGAR — Form 4, Steve Huffman (Reddit, Inc.), filed September 2, 2026 (sales under the May 19, 2025 plan)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713445/000182701126000038/wk-form4_1788388675.xml",
+          "type": "official",
+          "year": 2026
+        },
+        {
+          "label": "SEC EDGAR — Form 4, Steve Huffman (Reddit, Inc.), filed September 17, 2026 (new plan adopted May 20, 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/1713445/000171344526000109/wk-form4_1789682506.xml",
+          "type": "official",
+          "year": 2026
+        },
+        {
+          "label": "CNBC — 'Reddit weighs ending Google AI content-licensing deal as stock falls on AI-search worries' (July 22, 2026)",
+          "url": "https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html",
+          "type": "news",
+          "year": 2026,
+          "archiveUrl": "http://web.archive.org/web/20260915125355/https://www.cnbc.com/2026/07/22/reddit-stock-google-ai-content-deal.html"
+        }
+      ],
+      "url": "https://redditwatch.org/issues/huffman-10b5-1-scheduled-stock-sales-2025-2026",
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "reddit-community-ai-rules-authenticity-2023-2026",
@@ -2121,6 +2199,40 @@
       "updatedAt": "2026-08-04"
     },
     {
+      "slug": "reddit-responsible-builder-policy-api-lockdown-2025",
+      "title": "Reddit Locks Down Data API Access Under a New 'Responsible Builder Policy'",
+      "date": "November 2025–2026",
+      "year": 2025,
+      "startYear": 2025,
+      "endYear": 2026,
+      "categories": [
+        "policy-revolts",
+        "ongoing-2024-2026"
+      ],
+      "shortDescription": "Reddit's 'Responsible Builder Policy' requires anyone accessing Reddit's Data API — developers, researchers, or automated apps — to get explicit prior approval before doing so. The Internet Archive has captured the policy under its current article ID since at least November 14, 2025, and it explicitly bars using API data to train machine-learning or AI models without written approval, with revoked tokens and suspended accounts as enforcement tools.",
+      "fullDescription": "Reddit's help center hosts a policy titled the 'Responsible Builder Policy,' governing 'Developer Platform & Data API Usage.' The Internet Archive's Wayback Machine has a capture of the article under its current numeric ID dated November 14, 2025, indicating the policy existed under this title by that date; Reddit's own page footer marks its most recent update as June 5, 2026, the version examined for this record. The policy states it sets out 'our expectations for how and what you can do with Reddit's data which includes public content and platform metadata,' and specifies that it 'applies to everyone — whether you're a developer, moderator, researcher, or an app.'\n\nThe policy's central requirement is prior approval: in its own words, 'you must request access and get explicit approval before accessing any Reddit data through our API, and you must agree to comply with all applicable terms.' It also imposes a transparency rule barring anyone from misrepresenting or masking how or why they access Reddit data, including by registering multiple accounts to work around request limits, and a usage-limits rule barring circumvention of API call limits or 'excessive usage that disrupts' Reddit's APIs. A dedicated section on 'Apps and Automated Activity' — covering 'bots, AI agents, or non-human operated accounts' — requires such apps to register for a developer profile and carry a visible 'App' label, to have a clearly specified purpose and scope of access, to obtain a user's explicit consent before engaging in private communications, and to avoid mixed-use accounts. A separate carve-out limits moderator-built tools solely to performing moderation actions, routed through Reddit's Devvit app-review process.\n\nA section titled 'No Unapproved Commercialization or AI Training' states that builders 'must not sell, license, share, or otherwise commercialize Reddit data without express written approval,' and specifies that this prohibition 'extends to commercial and non-commercial mining, scraping, or using data for purposes like ads targeting or to train machine learning or AI models.' The policy separately bars attempts to 're-identify, de-anonymize, or reverse engineer data about Redditors including by matching data with off-platform identifiers,' and states enforcement actions can include 'revoking your access tokens,' 'suspending your app or account,' and 'suspending associated accounts, bots, domains, or subreddits.'\n\nThe policy sits alongside two other 2026 moves, each independently documented elsewhere in this archive, that tightened Reddit's posture toward automated and third-party access to its content: the March 2026 rollout of bot-detection and human-verification checks for suspected automated accounts, and the June 2026 requirement that even the legacy old.reddit.com interface be accessed while logged in, which Reddit likewise justified on anti-scraping grounds. Read together, the three changes trace a company moving, over roughly a year, from a comparatively open data-access model toward one in which nearly every form of automated or bulk access to Reddit's content requires the company's explicit, revocable, prior approval.",
+      "impact": "By replacing what had been a more permissive, self-service style of API access with a regime that requires explicit prior written approval for essentially any use of Reddit's Data API, and by expressly foreclosing unapproved AI-training use of that data, the policy positions Reddit to control the terms on which third parties — including AI developers, independent researchers, and hobbyist app-builders — can extract or build on its platform's data. Combined with 2026's human-verification and old.reddit login requirements, it marks a broader, sustained shift toward gated, revocable access to Reddit's content and infrastructure, arriving in the same period Reddit was separately suing AI companies over unlicensed scraping of that same content.",
+      "redditResponse": "Reddit states the policy exists, together with its related Public Content Policy, 'to foster a trusted and safe ecosystem for all users and developers.' The company has not published a separate press statement specific to the policy; its own help-center article — last updated June 5, 2026, per the page's own footer — is the primary public description of what the policy requires, who it applies to, and how Reddit says it will enforce violations.",
+      "arcs": [],
+      "sources": [
+        {
+          "label": "Reddit Help — 'Responsible Builder Policy'",
+          "url": "https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy",
+          "type": "official",
+          "year": 2026,
+          "archiveUrl": "https://web.archive.org/web/20260828024612/https://support.reddithelp.com/hc/en-us/articles/42728983564564-Responsible-Builder-Policy"
+        },
+        {
+          "label": "Wayback Machine — earliest archived capture of Reddit's Responsible Builder Policy article (confirms the policy existed under this article ID by November 14, 2025)",
+          "url": "https://web.archive.org/web/20251114013317/https://support.reddithelp.com/hc/en-us/articles/42728983564564",
+          "type": "official",
+          "year": 2025
+        }
+      ],
+      "url": "https://redditwatch.org/issues/reddit-responsible-builder-policy-api-lockdown-2025",
+      "updatedAt": "2026-09-28"
+    },
+    {
       "slug": "reddit-mods-unmasking-ethan-klein-2025",
       "title": "Reddit Moderators Fight Effort to Unmask Them in Ethan Klein Suit",
       "date": "2025",
@@ -2452,7 +2564,7 @@
         "ongoing-2024-2026"
       ],
       "shortDescription": "In June 2025 Reddit sued Anthropic, alleging it scraped Reddit content over 100,000 times to train Claude without a licence; in 2026 a court remanded the state-law claims back to California state court, where Anthropic's demurrer arguing federal preemption was argued in August 2026 with no ruling yet.",
-      "fullDescription": "On 4 June 2025 Reddit, Inc. filed suit against Anthropic, PBC, the AI company behind the Claude assistant, in San Francisco Superior Court (Case No. CGC-25-625892). Reddit alleged that Anthropic had scraped Reddit's content to train its models without a licensing agreement, in violation of Reddit's user agreement and terms governing automated access. The suit was part of a broader pattern in which Reddit, having struck paid data-licensing deals with other AI companies, moved aggressively against those it accused of taking its content without paying.\n\nReddit's complaint alleged that Anthropic accessed Reddit's site through automated means more than 100,000 times after July 2024, even after Anthropic had represented that it had blocked its bots from doing so, and that this activity disregarded Reddit's robots.txt and access restrictions. Notably, Reddit did not bring a copyright claim. Instead it asserted five state-law causes of action: breach of contract, unjust enrichment, trespass to chattels, tortious interference, and unfair competition under California's Section 17200. The choice to plead state-law theories rather than copyright was strategic and would prove central to the litigation's early procedural path.\n\nAnthropic removed the case to the U.S. District Court for the Northern District of California (Case No. 3:25-cv-05643), where it was assigned to Judge Trina Thompson. A key threshold dispute was whether Reddit's state-law claims were preempted by federal copyright law — which would keep the case in federal court — or whether they were genuinely distinct contract and tort claims that belonged in state court. On 30 March 2026 the court held that the claims were not preempted by the Copyright Act and remanded the case back to San Francisco Superior Court.\n\nAt that stage the litigation remained pending, with no ruling on the merits of whether Anthropic had in fact breached Reddit's terms or was liable for the conduct alleged. The remand decision was a procedural ruling about the proper forum, not a determination of liability, and Reddit's allegations about the scale and nature of the scraping remained allegations.\n\nFollowing the remand, Anthropic filed a demurrer in the state-court case arguing that Reddit's claims were nonetheless preempted by federal copyright law. Per MLex's Amy Miller (13 August 2026), Anthropic told the court the dispute was 'really a copyright fight in disguise' that should be preempted, while Reddit countered that Anthropic had violated 'the platform's privacy policies and other obligations governing how user data could be used.' The demurrer was argued on 12 August 2026. Per Bloomberg Law's Annelise Levy, the judge hearing the arguments 'repeatedly expressed doubt about Anthropic's arguments against Reddit's privacy claims,' though MLex reported that the judge 'gave no indication how he would rule.' No ruling had issued as of late August 2026, and the demurrer's outcome, like the underlying scraping allegations, remained undecided.\n\nFor an archive of Reddit controversies, the case is important as one of Reddit's own offensive lawsuits in the AI era, distinct from the separate action it brought against Perplexity and various scraper companies. It documents how Reddit converted the value of its user-generated content into a litigation and licensing strategy, asserting contract and unfair-competition theories rather than copyright to police unlicensed AI training. It also illustrates a live legal question of the period — the extent to which platform terms of service can be enforced against AI companies that ingest public-facing content — and should be described as a pending matter in which the underlying claims were not yet proven.",
+      "fullDescription": "On 4 June 2025 Reddit, Inc. filed suit against Anthropic, PBC, the AI company behind the Claude assistant, in San Francisco Superior Court (Case No. CGC-25-625892). Reddit alleged that Anthropic had scraped Reddit's content to train its models without a licensing agreement, in violation of Reddit's user agreement and terms governing automated access. The suit was part of a broader pattern in which Reddit, having struck paid data-licensing deals with other AI companies, moved aggressively against those it accused of taking its content without paying.\n\nReddit's complaint alleged that Anthropic accessed Reddit's site through automated means more than 100,000 times after July 2024, even after Anthropic had represented that it had blocked its bots from doing so, and that this activity disregarded Reddit's robots.txt and access restrictions. Notably, Reddit did not bring a copyright claim. Instead it asserted five state-law causes of action: breach of contract, unjust enrichment, trespass to chattels, tortious interference, and unfair competition under California's Section 17200. The choice to plead state-law theories rather than copyright was strategic and would prove central to the litigation's early procedural path.\n\nAnthropic removed the case to the U.S. District Court for the Northern District of California (Case No. 3:25-cv-05643), where it was assigned to Judge Trina Thompson. A key threshold dispute was whether Reddit's state-law claims were preempted by federal copyright law — which would keep the case in federal court — or whether they were genuinely distinct contract and tort claims that belonged in state court. The court signed its order on 28 March 2026, entered on the docket on 30 March 2026, holding that the claims were not preempted by the Copyright Act and remanding the case back to San Francisco Superior Court.\n\nAt that stage the litigation remained pending, with no ruling on the merits of whether Anthropic had in fact breached Reddit's terms or was liable for the conduct alleged. The remand decision was a procedural ruling about the proper forum, not a determination of liability, and Reddit's allegations about the scale and nature of the scraping remained allegations.\n\nFollowing the remand, Anthropic filed a demurrer in the state-court case arguing that Reddit's claims were nonetheless preempted by federal copyright law. Per MLex's Amy Miller (13 August 2026), Anthropic told the court the dispute was 'really a copyright fight in disguise' that should be preempted, while Reddit countered that Anthropic had violated 'the platform's privacy policies and other obligations governing how user data could be used.' The demurrer was argued on 12 August 2026. Per Bloomberg Law's Annelise Levy, the judge hearing the arguments 'repeatedly expressed doubt about Anthropic's arguments against Reddit's privacy claims,' though MLex reported that the judge 'gave no indication how he would rule.' No ruling had issued as of late August 2026, and the demurrer's outcome, like the underlying scraping allegations, remained undecided.\n\nFor an archive of Reddit controversies, the case is important as one of Reddit's own offensive lawsuits in the AI era, distinct from the separate action it brought against Perplexity and various scraper companies. It documents how Reddit converted the value of its user-generated content into a litigation and licensing strategy, asserting contract and unfair-competition theories rather than copyright to police unlicensed AI training. It also illustrates a live legal question of the period — the extent to which platform terms of service can be enforced against AI companies that ingest public-facing content — and should be described as a pending matter in which the underlying claims were not yet proven.",
       "impact": "The suit was a flagship example of Reddit converting its user-generated content into a litigation-and-licensing strategy in the AI era, asserting contract and unfair-competition theories rather than copyright to police unlicensed scraping. The 2026 remand kept the case alive on novel state-law grounds and spotlighted a live legal question — how far platform terms of service can be enforced against AI companies ingesting public content — and by late August 2026 that question remained unresolved, with Anthropic's preemption-based demurrer argued but undecided and liability still unproven.",
       "redditResponse": "The lawsuit was Reddit's own action; the company publicly framed it as enforcing its terms and protecting the value of its users' content against unlicensed AI training. Reddit's allegations about the scale of scraping remained allegations pending adjudication.",
       "arcs": [],
@@ -2491,7 +2603,7 @@
         }
       ],
       "url": "https://redditwatch.org/issues/reddit-v-anthropic-ai-scraping-suit-2025",
-      "updatedAt": "2026-08-30"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "reddit-v-serpapi-perplexity-scraper-defendants-2025",
@@ -2530,10 +2642,22 @@
           "type": "court",
           "year": 2025,
           "archiveUrl": "https://web.archive.org/web/20260612132320/https://fingfx.thomsonreuters.com/gfx/legaldocs/xmpjezjawvr/REDDIT%20PERPLEXITY%20LAWSUIT%20complaint.pdf"
+        },
+        {
+          "label": "MediaPost — 'Reddit Can Proceed With Scraping Claims Against Perplexity, SerpApi'",
+          "url": "https://www.mediapost.com/publications/article/416950/reddit-can-proceed-with-scraping-claims-against-pe.html",
+          "type": "news",
+          "year": 2026
+        },
+        {
+          "label": "Loeb & Loeb — 'Reddit Inc. v. SerpApi LLC'",
+          "url": "https://www.loeb.com/en/insights/publications/2026/08/reddit-v-serpapi-llc",
+          "type": "other",
+          "year": 2026
         }
       ],
       "url": "https://redditwatch.org/issues/reddit-v-serpapi-perplexity-scraper-defendants-2025",
-      "updatedAt": "2026-08-30"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "sissel-reddit-interstate-threats-conviction-2025",
@@ -2676,7 +2800,7 @@
         "security-data-breaches"
       ],
       "shortDescription": "On 25 July 2025 Reddit began requiring UK users to verify their age with government ID or a face scan to view adult and other 'mature' content, triggering a backlash over privacy and over-blocking of support communities.",
-      "fullDescription": "To comply with the UK's Online Safety Act 2023, Reddit introduced mandatory age verification for UK users in July 2025. Chief legal officer Ben Lee announced on r/RedditSafety that starting July 14 Reddit would begin collecting and verifying users' ages before showing certain mature content, ahead of the rules coming into force on 25 July. Verification ran through an outside firm, Persona, via an uploaded selfie or a photo of a government ID such as a passport. Reddit said it would not have access to the uploaded photo and would retain only a user's verification status and date of birth, and that Persona promised not to keep the picture longer than seven days.\n\nThe rollout drew immediate criticism for sweeping up communities far beyond pornography. The Electronic Frontier Foundation documented that subreddits dedicated to LGBTQ+ identity and support were placed behind the age wall, and that communities like r/periods, r/stopsmoking, and r/sexualassault were walled off to unverified users, alongside more absurd examples such as r/poker, r/vexillology, and r/worldwar2. Users reported bugs like being locked out or asked repeatedly for ID despite complying, and UK-based moderators reported difficulties viewing NSFW post submissions or vetting users' post history even when the material was entirely safe for work.\n\nPrivacy advocates warned that requiring identity documents to access a social platform creates a persistent link between a person's real identity and their online activity, concentrating sensitive data in third-party systems vulnerable to breach. EFF civil liberties director David Greene called the Act a \"real tragedy,\" saying UK users could no longer use the internet \"without having to provide their papers, as it were.\" UK users responded by downloading VPNs in large numbers, and a UK Parliament petition calling for repeal of the Online Safety Act surpassed the 100,000-signature threshold for parliamentary consideration. The government told petitioners it was working with Ofcom to ensure services faced \"robust but proportionate regulation\"; the petition closed on 22 October 2025 with 550,136 signatures, and Parliament debated it on 15 December 2025.\n\nOn 24 February 2026 the Information Commissioner's Office fined Reddit £14.47m for unlawfully using children's personal information, over failures between 5 May 2018 and 8 July 2025 in which it processed under-13s' data without a lawful basis. The regulator said Reddit had relied on asking users to declare their age when opening an account, a technique it said was \"easy to bypass.\" \"It's concerning that a company the size of Reddit failed in its legal duty to protect the personal information of UK children,\" said Information Commissioner John Edwards.\n\nReddit called the ICO's insistence that it collect more private information on every UK user \"counterintuitive and at odds with our strong belief in our users' online privacy and safety\" and said it intended to appeal. Social media analyst Matt Navarra called the combined actions the UK's \"two regulator pincer movement coming into force,\" a turning point in how Reddit was seen and scrutinised by regulators.",
+      "fullDescription": "To comply with the UK's Online Safety Act 2023, Reddit introduced mandatory age verification for UK users in July 2025. Chief legal officer Ben Lee announced on r/RedditSafety that starting July 14 Reddit would begin collecting and verifying users' ages before showing certain mature content, ahead of the rules coming into force on 25 July. Verification ran through an outside firm, Persona, via an uploaded selfie or a photo of a government ID such as a passport. Reddit said it would not have access to the uploaded photo and would retain only a user's verification status and date of birth, and that Persona promised not to keep the picture longer than seven days.\n\nThe rollout drew immediate criticism for sweeping up communities far beyond pornography. The Electronic Frontier Foundation documented that subreddits dedicated to LGBTQ+ identity and support were placed behind the age wall, and that communities like r/periods, r/stopsmoking, and r/sexualassault were walled off to unverified users, alongside more absurd examples such as r/poker, r/vexillology, and r/worldwar2. Users reported bugs like being locked out or asked repeatedly for ID despite complying, and UK-based moderators reported difficulties viewing NSFW post submissions or vetting users' post history even when the material was entirely safe for work.\n\nPrivacy advocates warned that requiring identity documents to access a social platform creates a persistent link between a person's real identity and their online activity, concentrating sensitive data in third-party systems vulnerable to breach. EFF civil liberties director David Greene called the Act a \"real tragedy,\" saying UK users could no longer use the internet \"without having to provide their papers, as it were.\" The Electronic Frontier Foundation separately called the rollout an \"absurd, disastrous outcome\" for privacy, noting that even Reddit, a platform with a history of defending digital rights, was \"doomed to fail\" in trying to comply. Within days, users found the verification technology could be tricked: EFF reported that \"video game face filters and meme images\" fooled Persona's software, and PetaPixel and The Verge documented gamers using the photo mode of Death Stranding 2 to generate a realistic AI-rendered human face and bypass Reddit's and Discord's age checks in seconds. UK users responded by downloading VPNs in large numbers, and a UK Parliament petition calling for repeal of the Online Safety Act surpassed the 100,000-signature threshold for parliamentary consideration. The government told petitioners it was working with Ofcom to ensure services faced \"robust but proportionate regulation\"; the petition closed on 22 October 2025 with 550,136 signatures, and Parliament debated it on 15 December 2025.\n\nOn 24 February 2026 the Information Commissioner's Office fined Reddit £14.47m for unlawfully using children's personal information, over failures between 5 May 2018 and 8 July 2025 in which it processed under-13s' data without a lawful basis. The regulator said Reddit had relied on asking users to declare their age when opening an account, a technique it said was \"easy to bypass.\" \"It's concerning that a company the size of Reddit failed in its legal duty to protect the personal information of UK children,\" said Information Commissioner John Edwards.\n\nReddit called the ICO's insistence that it collect more private information on every UK user \"counterintuitive and at odds with our strong belief in our users' online privacy and safety\" and said it intended to appeal. Social media analyst Matt Navarra called the combined actions the UK's \"two regulator pincer movement coming into force,\" a turning point in how Reddit was seen and scrutinised by regulators.",
       "impact": "Reddit became one of the most visible early test cases of the Online Safety Act, normalising ID-based age gates on a mainstream platform and fuelling a national debate over digital privacy, VPN use, and over-blocking of support communities — a backlash that escalated into the ICO's £14.47m fine in February 2026.",
       "redditResponse": "Reddit implemented third-party age verification via vendor Persona, stating it would not retain ID images and would store only verification status and birth date. Chief legal officer Ben Lee said Reddit continued to advocate for approaches that do not require platforms to ask for IDs, and after the February 2026 ICO fine the company defended its commitment to user privacy and said it intended to appeal the decision.",
       "arcs": [
@@ -2718,10 +2842,16 @@
           "url": "https://mashable.com/article/reddit-age-verification-check-uk-law-online-safety",
           "type": "news",
           "year": 2025
+        },
+        {
+          "label": "PetaPixel — People Are Using a Video Game Photo Mode to Bypass the UK's Online Safety Act",
+          "url": "https://petapixel.com/2025/07/28/people-are-using-a-video-game-photo-mode-to-bypass-the-uks-online-safety-act/",
+          "type": "news",
+          "year": 2025
         }
       ],
       "url": "https://redditwatch.org/issues/uk-online-safety-act-age-verification-2025",
-      "updatedAt": "2026-08-04"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "mangione-uhc-ceo-content-crackdown-2024",
@@ -3981,10 +4111,10 @@
         "ongoing-2024-2026",
         "policy-revolts"
       ],
-      "shortDescription": "The EU's Digital Services Act imposed new transparency, point-of-contact, and content-moderation obligations on Reddit, which self-reports tens of millions of EU users but has not been formally designated a Very Large Online Platform.",
-      "fullDescription": "The EU's Digital Services Act (DSA) imposed binding obligations on online platforms operating in the European Union, including transparency reporting, designated points of contact for users and authorities, statements of reasons for content actions, and user appeal mechanisms. The law phased in over 2023 and 2024: the European Commission designated the first 19 Very Large Online Platforms and search engines on April 25, 2023, requiring that group to comply from August 25, 2023, while most other services — including Reddit — were given 15 months, until February 17, 2024, to meet the general obligations.\n\nThe heaviest tier applies to platforms with more than 45 million EU monthly active users, roughly 10 percent of the EU population. Platforms must publicly report their active-user numbers and update them at least every six months, and the Commission designates VLOPs on that basis. Reddit's own disclosures put it above the line: as of January 2026 the company reported no more than 52.2 million monthly active recipients in the EU, calculated as an average over July through December 2025. Despite figures near or above the threshold, the European Commission had not, as of mid-2026, formally designated Reddit as a VLOP in its published list, which means Reddit was not yet subject to the heaviest VLOP obligations such as independent audits and systemic-risk assessments, and remained supervised primarily by national Digital Services Coordinators rather than the Commission itself.\n\nReddit built out a DSA compliance apparatus in response. It designated single points of contact for EU users and authorities, opened an EU illegal-content reporting channel that prioritizes reports from designated trusted flaggers, listed sexually explicit content, graphic violence and gambling as categories restricted for EU users under 18, and began publishing annual DSA transparency reports under Article 15, releasing editions covering 2024 and 2025 through its Transparency Center. The company also published separate EU transparency reports under the bloc's Terrorist Content Online Regulation (Regulation (EU) 2021/784).\n\nThe DSA nonetheless drew Reddit into the EU's enforcement orbit as regulators tested compliance across the sector. By November 2025 the Commission had opened 14 investigations into designated platforms including AliExpress, Facebook, Instagram, Temu, TikTok and X, and on December 5, 2025 it issued its first non-compliance fine under the law — 120 million euros against X over deceptive 'verified account' design, advertising-transparency failures and barriers to researcher data access. For a company that built its identity around volunteer moderation and light-touch governance, the DSA marked a shift toward mandated, auditable processes and recurring public reporting, with the prospect of VLOP-level obligations if a Commission designation were to bring Reddit over the line.",
-      "impact": "The DSA forced Reddit to adopt formal EU-facing transparency reporting, appeal mechanisms, trusted-flagger channels and regulatory points of contact, and left it publicly reporting up to 52.2 million EU users — above the 45-million VLOP threshold — while still outside the designated list. The Commission's first enforcement wave, including 14 investigations and a 120-million-euro fine against X in December 2025, signalled the concrete stakes of the regime Reddit now operates under in Europe.",
-      "redditResponse": "Reddit published DSA guidance for EU users, designated points of contact for users and authorities, stood up an EU illegal-content reporting form with priority handling for trusted flaggers, restricted sexually explicit content, graphic violence and gambling for users under 18, and disclosed its EU monthly-active-recipient counts as required, releasing annual DSA transparency reports for 2024 and 2025 plus separate EU Terrorist Content Online Regulation reports, while operating outside the formal VLOP designation.",
+      "shortDescription": "The EU's Digital Services Act imposed new transparency, point-of-contact, and content-moderation obligations on Reddit, which the European Commission designated a Very Large Online Platform on 31 August 2026 after Reddit reported 57.2 million average monthly EU users.",
+      "fullDescription": "The EU's Digital Services Act (DSA) imposed binding obligations on online platforms operating in the European Union, including transparency reporting, designated points of contact for users and authorities, statements of reasons for content actions, and user appeal mechanisms. The law phased in over 2023 and 2024: the European Commission designated the first 19 Very Large Online Platforms and search engines on April 25, 2023, requiring that group to comply from August 25, 2023, while most other services — including Reddit — were given 15 months, until February 17, 2024, to meet the general obligations.\n\nThe heaviest tier applies to platforms with more than 45 million EU monthly active users, roughly 10 percent of the EU population. Platforms must publicly report their active-user numbers and update them at least every six months, and the Commission designates VLOPs on that basis. Reddit's own disclosures had put it near the line for months — as of January 2026 the company reported no more than 52.2 million monthly active recipients in the EU, calculated as an average over July through December 2025 — and on August 31, 2026 the European Commission designated Reddit, alongside Roblox and, as a search engine, ChatGPT, as a Very Large Online Platform, citing an average of 57.2 million monthly active EU users over the six months to March 2026. Commission executive vice-president Henna Virkkunen said the designations meant the three services 'will now be held to a higher standard of scrutiny and accountability in the European Union, in line with their large impact on our citizens and society.' The designation gave Reddit four months, until the end of November 2026, to comply with the DSA's heaviest obligations, including annual systemic-risk assessments covering illegal content, protection of minors, users' mental and physical wellbeing, fundamental rights and electoral processes, plus independent audits and data-sharing with regulators and vetted researchers; the move brought the total number of platforms and search engines in the DSA's strictest tier to 28, supervised by the Commission in cooperation with national Digital Services Coordinators.\n\nReddit built out a DSA compliance apparatus well before the designation. It designated single points of contact for EU users and authorities, opened an EU illegal-content reporting channel that prioritizes reports from designated trusted flaggers, listed sexually explicit content, graphic violence and gambling as categories restricted for EU users under 18, and began publishing annual DSA transparency reports under Article 15, releasing editions covering 2024 and 2025 through its Transparency Center. The company also published separate EU transparency reports under the bloc's Terrorist Content Online Regulation (Regulation (EU) 2021/784).\n\nThe DSA nonetheless drew Reddit into the EU's enforcement orbit as regulators tested compliance across the sector. By November 2025 the Commission had opened 14 investigations into designated platforms including AliExpress, Facebook, Instagram, Temu, TikTok and X, and on December 5, 2025 it issued its first non-compliance fine under the law — 120 million euros against X over deceptive 'verified account' design, advertising-transparency failures and barriers to researcher data access. For a company that built its identity around volunteer moderation and light-touch governance, the DSA marked a shift toward mandated, auditable processes and recurring public reporting, a shift that culminated in Reddit's own VLOP designation two and a half years after the general obligations first took effect.",
+      "impact": "The DSA forced Reddit to adopt formal EU-facing transparency reporting, appeal mechanisms, trusted-flagger channels and regulatory points of contact, and its growing EU user base — 57.2 million average monthly active users by early 2026 — ultimately tipped it into the Commission's strictest tier: on 31 August 2026 the Commission designated Reddit a Very Large Online Platform, giving it until the end of November 2026 to meet obligations including independent audits and systemic-risk assessments. The Commission's earlier enforcement wave, including 14 investigations and a 120-million-euro fine against X in December 2025, had already signalled the concrete stakes of the regime Reddit now operates under in Europe.",
+      "redditResponse": "Reddit published DSA guidance for EU users, designated points of contact for users and authorities, stood up an EU illegal-content reporting form with priority handling for trusted flaggers, restricted sexually explicit content, graphic violence and gambling for users under 18, and disclosed its EU monthly-active-recipient counts as required, releasing annual DSA transparency reports for 2024 and 2025 plus separate EU Terrorist Content Online Regulation reports. After the European Commission designated it a Very Large Online Platform on 31 August 2026, citing 57.2 million average monthly EU users, Reddit had until the end of November 2026 to meet the DSA's heaviest obligations, including independent audits and systemic-risk assessments.",
       "arcs": [
         "regulatory-wave"
       ],
@@ -3996,10 +4126,16 @@
           "year": 2025
         },
         {
-          "label": "European Commission — List of designated VLOPs and VLOSEs under the DSA",
+          "label": "European Commission — Supervision of the designated very large online platforms and search engines under DSA",
           "url": "https://digital-strategy.ec.europa.eu/en/policies/list-designated-vlops-and-vloses",
           "type": "official",
-          "year": 2024
+          "year": 2026
+        },
+        {
+          "label": "Euronews — EU places ChatGPT, Reddit and Roblox under strictest digital safety rules",
+          "url": "https://www.euronews.com/2026/08/31/eu-places-chatgpt-reddit-and-roblox-under-strictest-digital-safety-rules",
+          "type": "news",
+          "year": 2026
         },
         {
           "label": "Wikipedia — Digital Services Act",
@@ -4015,7 +4151,7 @@
         }
       ],
       "url": "https://redditwatch.org/issues/reddit-eu-dsa-compliance",
-      "updatedAt": "2026-08-04"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "reddit-mandatory-admin-approval-private-communities-2024",
@@ -4860,7 +4996,7 @@
         "policy-revolts"
       ],
       "shortDescription": "Researchers documented a surge in advertising for AI 'nudify' apps — services that fabricate non-consensual nude images from ordinary photos — across social platforms including Reddit, which said it had banned several domains in response.",
-      "fullDescription": "Beginning in 2023, the social-media analysis firm Graphika documented an explosive rise in the promotion of so-called 'nudify' or 'undress' apps — services that use AI to fabricate fake nude images of real people from clothed photographs, almost always targeting women and girls without their knowledge or consent. Graphika reported that the volume of links advertising such apps across social platforms, including X and Reddit, rose more than 2,400 percent over the year, and that a set of the services drew tens of millions of visits in a single month.\n\nThe apps' business model depended on cheap, viral distribution, and open platforms with large audiences were a natural advertising channel. Reporting by TIME and Fortune in December 2023, drawing on the Graphika findings, described how links and referral promotions for these tools spread through posts and comments, often reaching users who had not sought them out. The fabricated images are a form of non-consensual intimate imagery, and victim advocates warned that the tools lowered the technical bar for producing such abuse to almost nothing.\n\nReddit's content policy already prohibited sharing non-consensual faked sexually explicit material. Asked about the research, a Reddit spokesperson said the platform bans such sharing and had banned several domains as a result of the findings. That action — blocking specific app domains rather than only removing individual posts — reflected the difficulty of policing a category of service whose entire purpose is producing abusive imagery.\n\nThe episode illustrated a persistent enforcement gap. Domain bans and keyword blocks can suppress the most visible promotion, but the apps proliferate under new names and mirror domains, and promotional content can be reframed to evade filters. Other platforms took parallel steps over the same period — including blocking search terms such as 'undress' — but researchers and journalists documented that the services remained widely reachable.\n\nFor Reddit specifically, the controversy sat at the intersection of its scale, its NSFW-tolerant culture, and its reliance on user reports and automated detection. Critics argued that a platform hosting large adult communities is an especially attractive target for tools marketing non-consensual imagery, and that reactive domain bans, while necessary, lag behind the speed at which such promotion spreads. The episode became part of the wider 2024 reckoning over AI-generated sexual abuse and the legislative response that followed.",
+      "fullDescription": "Beginning in 2023, the social-media analysis firm Graphika documented an explosive rise in the promotion of so-called 'nudify' or 'undress' apps — services that use AI to fabricate fake nude images of real people from clothed photographs, almost always targeting women and girls without their knowledge or consent. Graphika reported that the volume of links advertising such apps across social platforms, including X and Reddit, rose more than 2,400 percent over the year, and that a set of the services drew tens of millions of visits in a single month.\n\nThe apps' business model depended on cheap, viral distribution, and open platforms with large audiences were a natural advertising channel. Reporting by TIME and Fortune in December 2023, drawing on the Graphika findings, described how links and referral promotions for these tools spread through posts and comments, often reaching users who had not sought them out. The fabricated images are a form of non-consensual intimate imagery, and victim advocates warned that the tools lowered the technical bar for producing such abuse to almost nothing.\n\nReddit's content policy already prohibited sharing non-consensual faked sexually explicit material. Asked about the research, a Reddit spokesperson said the platform bans such sharing and had banned several domains as a result of the findings. That action — blocking specific app domains rather than only removing individual posts — reflected the difficulty of policing a category of service whose entire purpose is producing abusive imagery.\n\nThe episode illustrated a persistent enforcement gap. Domain bans and keyword blocks can suppress the most visible promotion, but the apps proliferate under new names and mirror domains, and promotional content can be reframed to evade filters. Other platforms took parallel steps over the same period — including blocking search terms such as 'undress' — but researchers and journalists documented that the services remained widely reachable.\n\nFor Reddit specifically, the controversy sat at the intersection of its scale, its NSFW-tolerant culture, and its reliance on user reports and automated detection. Critics argued that a platform hosting large adult communities is an especially attractive target for tools marketing non-consensual imagery, and that reactive domain bans, while necessary, lag behind the speed at which such promotion spreads. The episode became part of the wider 2024 reckoning over AI-generated sexual abuse and the legislative response that followed.\n\nThe issue carried into Congress two years later. On January 13, 2026, eight U.S. Senators — including Kirsten Gillibrand — wrote to Reddit CEO Steve Huffman and the leaders of Alphabet, Meta, X, TikTok and Snap demanding proof of \"robust protections and policies\" against non-consensual, AI-manipulated sexual imagery, along with formal preservation of related internal records. The senators' letter pointed to a WIRED-reported case in which a Reddit user asked for a clothed photo of a woman to be digitally altered into a bikini image and another user promptly complied, inside a community later removed for evading Reddit's AI-safety rules, as evidence that platform guardrails against this class of imagery were failing or being circumvented.",
       "impact": "The research established that mainstream platforms, including Reddit, had become significant advertising channels for tools whose only function is producing non-consensual intimate imagery. Reddit's response — banning specific domains rather than only individual posts — highlighted both the platform's stated prohibition and the limits of reactive enforcement against services that constantly re-emerge under new names.",
       "redditResponse": "A Reddit spokesperson said the platform prohibits the non-consensual sharing of faked sexually explicit material and that it had banned several domains as a result of the researchers' findings. Reddit's rules against non-consensual intimate media, including AI-generated content, remained the basis for removals, supplemented by domain-level blocks.",
       "arcs": [
@@ -4887,10 +5023,24 @@
           "type": "news",
           "year": 2024,
           "archiveUrl": "https://web.archive.org/web/20251204115841/https://theconversation.com/ai-nudify-sites-are-being-sued-for-victimising-people-how-can-we-battle-deepfake-abuse-237043"
+        },
+        {
+          "label": "Sen. Kirsten Gillibrand et al. — Oversight Letter on NCII/Deepfakes on Social Media (Jan. 13, 2026)",
+          "url": "https://www.gillibrand.senate.gov/wp-content/uploads/2026/01/Oversight-Letter-on-NCII-Deepfakes-on-Social-Media-1.pdf",
+          "type": "official",
+          "year": 2026,
+          "archiveUrl": "https://web.archive.org/web/20260313141245/https://www.gillibrand.senate.gov/wp-content/uploads/2026/01/Oversight-Letter-on-NCII-Deepfakes-on-Social-Media-1.pdf"
+        },
+        {
+          "label": "TechCrunch — US senators demand answers from X, Meta, Alphabet, and others on sexualized deepfakes",
+          "url": "https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/",
+          "type": "news",
+          "year": 2026,
+          "archiveUrl": "https://web.archive.org/web/20260620121743/https://techcrunch.com/2026/01/15/us-senators-demand-answers-from-x-meta-alphabet-on-sexualized-deepfakes/"
         }
       ],
       "url": "https://redditwatch.org/issues/nudify-undress-app-promotion-reddit-2023",
-      "updatedAt": "2026-08-30"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "spamouflage-china-influence-operation-reddit-2023",
@@ -10032,7 +10182,7 @@
       "arcs": [],
       "sources": [
         {
-          "label": "arXiv — Finkelstein, Zannettou, Bradlyn, Blackburn, 'A Quantitative Approach to Understanding Online Antisemitism'",
+          "label": "arXiv — Zannettou, Finkelstein, Bradlyn, Blackburn, 'A Quantitative Approach to Understanding Online Antisemitism'",
           "url": "https://arxiv.org/abs/1809.01644",
           "type": "academic",
           "year": 2018,
@@ -10054,7 +10204,7 @@
         }
       ],
       "url": "https://redditwatch.org/issues/reddit-quantitative-antisemitism-research-fringe-to-mainstream-2018",
-      "updatedAt": "2026-08-30"
+      "updatedAt": "2026-09-28"
     },
     {
       "slug": "reddit-2018-breach-sms-2fa-bypass",
